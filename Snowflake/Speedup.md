@@ -26,4 +26,6 @@ On subsequent queries, the cache will be hit exclusively
 
 ![Cache](/Snowflake/Diagrams/Architecture.Speedup-Cache.png)
 
-In addition to this, the concept of having multiple "warehouses" (defined in your connection), each of which doesn't compete with other warehouses.
+In addition to this, there exist multiple "warehouses" (defined in your connection), each of which doesn't compete with other warehouses.
+
+![Scale-out](/Snowflake/Diagrams/Architecture.Speedup-Scale-out.png)
