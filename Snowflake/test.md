@@ -1,0 +1,1 @@
+![test](/Snowflake/Diagrams/airflow.drawio.svg)
